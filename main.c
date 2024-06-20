@@ -17,7 +17,7 @@ float addFloat(float a, float b) {
 }
 
 void sayHello() {
-    printf("Hello World\n");
+    printf("Hello New World\n");
 }
 
 int main() {
